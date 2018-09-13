@@ -1,0 +1,42 @@
+_repo: Crito_51220
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ficino, Marsilio
+    aliases:
+    - Feghinensis, Marsilius
+    - Ficino, Marcilio
+    - Ficin, Marsile
+    - Ficinus, Marsilius
+    birthdate: 1433
+    deathdate: 1499
+    gutenberg_agent_id: '46309'
+    url: http://www.gutenberg.org/2009/agents/46309
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51220'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Justice -- Early works to 1800'
+- !lcc 'B'
+- !lcc 'PA'
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Dialogues, Greek -- Translations into Latin'
+- GITenberg
+title: Crito
+url: http://www.gutenberg.org/ebooks/51220
